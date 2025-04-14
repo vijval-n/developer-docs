@@ -3,6 +3,9 @@ description: Connect to Palo Alto Networks PAN OS.
 difficulty_level: INTERMEDIATE
 fidelity: GUIDE
 time_in_minutes: 30
+difficulty_level: INTERMEDIATE
+fidelity: GUIDE
+time_in_minutes: 30
 name: Palo Alto Networks
 
 ---
