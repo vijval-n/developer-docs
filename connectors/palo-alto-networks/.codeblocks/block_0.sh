@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 curl -k "https://<firewall-or-panorama>/api/?type=keygen&user=<admin-username>&password=<admin-password>"
+=======
+bash
+CopyEdit
+curl -k "https://<firewall-or-panorama>/api/?type=keygen&user=<admin-username>&password=<admin-password>"
+
+>>>>>>> e6dae57 (added codeblocks)
